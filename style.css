@@ -1,0 +1,53 @@
+*{
+    background-color: blue;
+}
+
+header {
+    color: yellow;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+#css {
+    color: green;
+    font-size: 10px;
+    font-family: cursive;
+}
+.types-of-css {
+    border: 1px solid;
+    border-color: green;
+}
+
+.types-of-css-one {
+    color: blueviolet;
+}
+
+.types-of-css-two{
+    color: plum;
+}
+
+.types-of-css-three {
+    color: mediumvioletred;
+}
+
+.list-of-css-one {
+    color: lawngreen;
+}
+
+.list-of-css-two {
+    color: brown;
+}
+
+.list-of-css-three {
+    color: aqua;
+}
+
+h2 {
+    color: aquamarine;
+}
+
+h3 {
+    color: fuchsia;
+}
